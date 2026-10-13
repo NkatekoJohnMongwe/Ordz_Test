@@ -1,0 +1,308 @@
+{
+  "categories": [
+    "Artists",
+    "Producers",
+    "Recording Studios",
+    "DJs",
+    "Managers",
+    "Record Labels",
+    "Music Distributors",
+    "Promoters",
+    "Event Organisers",
+    "Videographers",
+    "Photographers",
+    "Graphic Designers",
+    "Publicists",
+    "Radio",
+    "Podcasts",
+    "Hip-Hop Media",
+    "Venues"
+  ],
+  "items": [
+    {
+      "id": "dir-01",
+      "name": "Sample MC: Joburg",
+      "category": "Artists",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "description": "Placeholder profile for an independent MC. Replace with a real listing.",
+      "services": [
+        "Live performance",
+        "Features"
+      ],
+      "sample": true,
+      "email": "hello@example.com",
+      "instagram": "#",
+      "whatsapp": "#"
+    },
+    {
+      "id": "dir-02",
+      "name": "Sample Group: Cape Flats",
+      "category": "Artists",
+      "city": "Cape Town",
+      "province": "Western Cape",
+      "description": "Placeholder profile for a hip-hop group performing in more than one language.",
+      "services": [
+        "Live performance",
+        "Bookings"
+      ],
+      "sample": true,
+      "instagram": "#",
+      "email": "hello@example.com"
+    },
+    {
+      "id": "dir-03",
+      "name": "Sample Beatmaker: Pretoria",
+      "category": "Producers",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "description": "Placeholder profile for a beatmaker selling and leasing beats.",
+      "services": [
+        "Beats for sale",
+        "Custom production"
+      ],
+      "sample": true,
+      "instagram": "#",
+      "whatsapp": "#"
+    },
+    {
+      "id": "dir-04",
+      "name": "Sample Producer: Durban",
+      "category": "Producers",
+      "city": "Durban",
+      "province": "KwaZulu-Natal",
+      "description": "Placeholder profile for a producer working in trap and boom bap.",
+      "services": [
+        "Custom production",
+        "Mixing"
+      ],
+      "sample": true,
+      "email": "hello@example.com",
+      "tiktok": "#"
+    },
+    {
+      "id": "dir-05",
+      "name": "Sample Studio: Braamfontein",
+      "category": "Recording Studios",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "description": "Placeholder profile for a recording studio with a vocal booth and engineer.",
+      "services": [
+        "Recording",
+        "Mixing",
+        "Mastering"
+      ],
+      "sample": true,
+      "website": "#",
+      "email": "hello@example.com",
+      "phone": "+27 00 000 0000"
+    },
+    {
+      "id": "dir-06",
+      "name": "Sample Studio: Mitchells Plain",
+      "category": "Recording Studios",
+      "city": "Cape Town",
+      "province": "Western Cape",
+      "description": "Placeholder profile for a community studio offering hourly rates.",
+      "services": [
+        "Recording",
+        "Mixing"
+      ],
+      "sample": true,
+      "instagram": "#",
+      "whatsapp": "#"
+    },
+    {
+      "id": "dir-07",
+      "name": "Sample DJ: Soweto",
+      "category": "DJs",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "description": "Placeholder profile for a DJ available for clubs, radio and events.",
+      "services": [
+        "DJ sets",
+        "Radio mixes"
+      ],
+      "sample": true,
+      "instagram": "#",
+      "whatsapp": "#"
+    },
+    {
+      "id": "dir-08",
+      "name": "Sample DJ: Gqeberha",
+      "category": "DJs",
+      "city": "Gqeberha",
+      "province": "Eastern Cape",
+      "description": "Placeholder profile for a DJ focused on hip-hop sets.",
+      "services": [
+        "DJ sets",
+        "Events"
+      ],
+      "sample": true,
+      "instagram": "#"
+    },
+    {
+      "id": "dir-09",
+      "name": "Sample Manager",
+      "category": "Managers",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "description": "Placeholder profile for an artist manager taking on independent talent.",
+      "services": [
+        "Artist management",
+        "Release planning"
+      ],
+      "sample": true,
+      "email": "hello@example.com",
+      "x": "#"
+    },
+    {
+      "id": "dir-10",
+      "name": "Sample Indie Label",
+      "category": "Record Labels",
+      "city": "Cape Town",
+      "province": "Western Cape",
+      "description": "Placeholder profile for an independent label.",
+      "services": [
+        "Releases",
+        "Artist development"
+      ],
+      "sample": true,
+      "website": "#",
+      "email": "hello@example.com"
+    },
+    {
+      "id": "dir-11",
+      "name": "Sample Distributor",
+      "category": "Music Distributors",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "description": "Placeholder profile for a distributor serving independent releases.",
+      "services": [
+        "Digital distribution",
+        "Metadata support"
+      ],
+      "sample": true,
+      "website": "#",
+      "email": "hello@example.com"
+    },
+    {
+      "id": "dir-12",
+      "name": "Sample Promoter",
+      "category": "Promoters",
+      "city": "Durban",
+      "province": "KwaZulu-Natal",
+      "description": "Placeholder profile for a promoter running hip-hop nights.",
+      "services": [
+        "Event promotion",
+        "Bookings"
+      ],
+      "sample": true,
+      "instagram": "#",
+      "whatsapp": "#"
+    },
+    {
+      "id": "dir-13",
+      "name": "Sample Videographer",
+      "category": "Videographers",
+      "city": "Pretoria",
+      "province": "Gauteng",
+      "description": "Placeholder profile for a videographer making music videos and live sessions.",
+      "services": [
+        "Music videos",
+        "Live sessions"
+      ],
+      "sample": true,
+      "instagram": "#",
+      "email": "hello@example.com"
+    },
+    {
+      "id": "dir-14",
+      "name": "Sample Photographer",
+      "category": "Photographers",
+      "city": "Bloemfontein",
+      "province": "Free State",
+      "description": "Placeholder profile for a photographer covering shows and press shoots.",
+      "services": [
+        "Press shoots",
+        "Event coverage"
+      ],
+      "sample": true,
+      "instagram": "#"
+    },
+    {
+      "id": "dir-15",
+      "name": "Sample Designer",
+      "category": "Graphic Designers",
+      "city": "Cape Town",
+      "province": "Western Cape",
+      "description": "Placeholder profile for a designer making cover art and posters.",
+      "services": [
+        "Cover art",
+        "Posters"
+      ],
+      "sample": true,
+      "website": "#",
+      "instagram": "#"
+    },
+    {
+      "id": "dir-16",
+      "name": "Sample Hip-Hop Radio Show",
+      "category": "Radio",
+      "city": "Mbombela",
+      "province": "Mpumalanga",
+      "description": "Placeholder profile for a radio show featuring local hip-hop.",
+      "services": [
+        "Airplay",
+        "Interviews"
+      ],
+      "sample": true,
+      "email": "hello@example.com"
+    },
+    {
+      "id": "dir-17",
+      "name": "Sample Podcast",
+      "category": "Podcasts",
+      "city": "Polokwane",
+      "province": "Limpopo",
+      "description": "Placeholder profile for a hip-hop podcast hosting independent artists.",
+      "services": [
+        "Interviews",
+        "Sponsorship"
+      ],
+      "sample": true,
+      "instagram": "#"
+    },
+    {
+      "id": "dir-18",
+      "name": "Sample Venue",
+      "category": "Venues",
+      "city": "Johannesburg",
+      "province": "Gauteng",
+      "description": "Placeholder profile for a live venue hosting open mics and shows.",
+      "services": [
+        "Open mic",
+        "Live shows",
+        "Venue hire"
+      ],
+      "sample": true,
+      "website": "#",
+      "phone": "+27 00 000 0000"
+    },
+    {
+      "id": "dir-19",
+      "name": "Sample Event Organiser",
+      "category": "Event Organisers",
+      "city": "Mahikeng",
+      "province": "North West",
+      "description": "Placeholder profile for an organiser running hip-hop festivals.",
+      "services": [
+        "Festival production",
+        "Bookings"
+      ],
+      "sample": true,
+      "instagram": "#",
+      "whatsapp": "#"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "terms": [
+    {
+      "term": "Album",
+      "category": "Styles & Eras",
+      "definition": "A full-length collection of songs, usually 8 or more tracks, released as one body of work.",
+      "example": "\"The album has a clear story arc.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Alternative Hip-Hop",
+      "category": "Styles & Eras",
+      "definition": "Hip-hop that steps outside mainstream sounds or topics, often mixing genres.",
+      "example": "\"The EP is alternative hip-hop with live instruments.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "B-boy",
+      "category": "Elements & Culture",
+      "definition": "A male breakdancer. The B stands for break or Bronx, depending on the telling.",
+      "example": "\"He's been a b-boy for twenty years.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "B-girl",
+      "category": "Elements & Culture",
+      "definition": "A female breakdancer.",
+      "example": "\"The b-girl's footwork won the round.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "B-side",
+      "category": "Styles & Eras",
+      "definition": "The second song on a record's flip side, historically less promoted. Now used loosely for extra or alternate tracks.",
+      "example": "\"The B-side ended up being the fan favourite.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Backpack Rap",
+      "category": "Styles & Eras",
+      "definition": "Lyric-focused hip-hop associated with the underground and with listeners carrying records and notebooks in their bags.",
+      "example": "\"A backpack rap album built on jazz samples.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Bars",
+      "category": "Lyrics & Flow",
+      "definition": "Lines of a verse. Usually counted in measures of music, with one bar typically holding one line of lyric.",
+      "example": "\"Sixteen bars on the second verse.\"",
+      "southAfricanContext": "Ordz takes its name from this world: words, lyrics, bars and wordplay."
+    },
+    {
+      "term": "Battle Rap",
+      "category": "Performance",
+      "definition": "A contest where two MCs trade verses aimed at each other, judged by crowd or panel on wit, delivery and originality.",
+      "example": "\"The battle came down to a final round.\"",
+      "southAfricanContext": "SA battle scenes have grown through live events and online videos."
+    },
+    {
+      "term": "Beat",
+      "category": "Production",
+      "definition": "The instrumental backing of a track: drums, bass and other musical elements. Also the rhythm itself.",
+      "example": "\"He sent over three beats this morning.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Beatmaker",
+      "category": "Production",
+      "definition": "A person who makes beats. Often used for producers who work mainly with drum programming and samples.",
+      "example": "\"She's a beatmaker from Pretoria who sells beats online.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Block Party",
+      "category": "Elements & Culture",
+      "definition": "An outdoor community party with DJs, MCs and dancers. Hip-hop was born at parties like these.",
+      "example": "\"The block party closed the street.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Boom Bap",
+      "category": "Styles & Eras",
+      "definition": "A drum-driven hip-hop style built on hard kicks and snares, often with sampled loops. Associated with 1990s New York.",
+      "example": "\"The producer is known for boom bap beats.\"",
+      "southAfricanContext": "Boom bap remains an influence on SA backpack and lyrical scenes."
+    },
+    {
+      "term": "Breakbeat",
+      "category": "DJing",
+      "definition": "A drum break from a record that DJs looped and extended. The rhythmic core of early hip-hop.",
+      "example": "\"The breakbeat kept the dancers going.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Breakdancing",
+      "category": "Elements & Culture",
+      "definition": "A dance form with floor moves, spins and freezes. Also called breaking. One of the four classic elements.",
+      "example": "\"Breakdancing crews practised in parking lots.\"",
+      "southAfricanContext": "Breaking crews were among the first visible hip-hop groups in 1980s SA."
+    },
+    {
+      "term": "CAPI",
+      "category": "Digital & Rights",
+      "definition": "Entry kept from the original brief. The exact meaning needs to be confirmed by the Ordz editorial team before publication.",
+      "example": "",
+      "southAfricanContext": "Editorial note: confirm definition. Related SA bodies include CAPASSO (mechanical rights), SAMRO (performance rights) and SAMPRA (needletime)."
+    },
+    {
+      "term": "Chorus",
+      "category": "Lyrics & Flow",
+      "definition": "The repeated section of a song, usually sung or chanted between verses. In hip-hop it is often called the hook.",
+      "example": "\"The chorus returns after every verse.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Conscious Rap",
+      "category": "Styles & Eras",
+      "definition": "Rap that focuses on social, political or spiritual themes.",
+      "example": "\"The album is conscious rap about land and identity.\"",
+      "southAfricanContext": "Strongly rooted in SA hip-hop's response to apartheid and its legacy."
+    },
+    {
+      "term": "Crate Digging",
+      "category": "Production",
+      "definition": "Searching through records, often in second-hand shops or markets, to find rare samples and breaks.",
+      "example": "\"He found the loop crate digging in Joburg.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Cypher",
+      "category": "Performance",
+      "definition": "A circle of rappers, beatmakers or dancers who take turns performing, usually unrehearsed. The word also names recorded group freestyle videos.",
+      "example": "\"We caught a street cypher outside the venue.\"",
+      "southAfricanContext": "Cyphers are a staple of SA campus and open-mic culture and a common way new MCs get noticed."
+    },
+    {
+      "term": "Delivery",
+      "category": "Lyrics & Flow",
+      "definition": "The vocal performance of a lyric: tone, energy, diction and emphasis. Two rappers can say the same words and sound nothing alike.",
+      "example": "\"The lyrics were simple, but the delivery made them hit.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Diss",
+      "category": "Lyrics & Flow",
+      "definition": "A verse or song that attacks another artist. Short for disrespect.",
+      "example": "\"The diss track dropped at midnight.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Distributor",
+      "category": "Industry & Business",
+      "definition": "A company that gets recorded music into shops and onto streaming platforms.",
+      "example": "\"The distributor delivered the album to every platform.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "DJ",
+      "category": "DJing",
+      "definition": "A person who plays and manipulates recorded music, traditionally on turntables. One of hip-hop's four original elements.",
+      "example": "\"The DJ kept the crowd moving all night.\"",
+      "southAfricanContext": "SA DJs are central to radio, clubs and mixtape culture."
+    },
+    {
+      "term": "Double Entendre",
+      "category": "Lyrics & Flow",
+      "definition": "A phrase with two meanings, one of which is usually indirect or cheeky.",
+      "example": "\"The line works as a joke and as a threat.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "DSP",
+      "category": "Digital & Rights",
+      "definition": "Digital service provider. A streaming or download platform such as Spotify, Apple Music or YouTube Music.",
+      "example": "\"Most DSPs require a distributor.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Emcee",
+      "category": "Performance",
+      "definition": "The spelled-out form of MC. Often used when stressing the craft over the persona.",
+      "example": "\"He calls himself an emcee, not a rapper.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "EP",
+      "category": "Styles & Eras",
+      "definition": "Extended play. A release shorter than an album, usually 3 to 7 tracks.",
+      "example": "\"A five-track EP is a good way to introduce yourself.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Flow",
+      "category": "Lyrics & Flow",
+      "definition": "How a rapper's words sit on the beat: rhythm, cadence, rhyme pattern and pacing.",
+      "example": "\"Her flow switches halfway through the verse.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Freestyle",
+      "category": "Lyrics & Flow",
+      "definition": "Rapping improvised on the spot, or lyrics written to a beat without a fixed song structure.",
+      "example": "\"He freestyled for five minutes off a single word from the crowd.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Gangsta Rap",
+      "category": "Styles & Eras",
+      "definition": "A style that describes street life, crime and survival, often in a confrontational voice.",
+      "example": "\"The gangsta rap record split critics.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Golden Era",
+      "category": "Styles & Eras",
+      "definition": "A period, generally the late 1980s to mid-1990s, regarded as a peak of creativity in American hip-hop.",
+      "example": "\"Golden era albums set the template.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Graffiti",
+      "category": "Elements & Culture",
+      "definition": "Stylised public art, often with spray paint, including tags, pieces and murals. One of the four classic elements.",
+      "example": "\"The wall was covered in graffiti.\"",
+      "southAfricanContext": "SA graffiti has its own styles, languages and political history."
+    },
+    {
+      "term": "Hook",
+      "category": "Lyrics & Flow",
+      "definition": "The catchy, repeatable part of a song that listeners remember. Often sung or chanted.",
+      "example": "\"The hook was stuck in my head all week.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Imprint",
+      "category": "Industry & Business",
+      "definition": "A brand or sub-label operating under a larger company, or an independent brand that releases and curates music and media. Ordz describes itself as an imprint.",
+      "example": "\"The imprint curates independent releases.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Independent",
+      "category": "Styles & Eras",
+      "definition": "An artist, label or project that operates without a major label, with its own funding and decisions.",
+      "example": "\"She released the EP independently.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Independent Artist",
+      "category": "Industry & Business",
+      "definition": "An artist who releases music without a major-label deal and handles or outsources their own business, from recording to marketing.",
+      "example": "\"As an independent artist she controls her release schedule.\"",
+      "southAfricanContext": "The independent route is the main path for most SA hip-hop artists today."
+    },
+    {
+      "term": "ISRC",
+      "category": "Digital & Rights",
+      "definition": "International Standard Recording Code. A unique ID assigned to each recording so it can be tracked and paid.",
+      "example": "\"Register an ISRC for every track before release.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Lo-fi",
+      "category": "Styles & Eras",
+      "definition": "Music with a deliberately rough, warm or imperfect sound, often with tape hiss and dusty samples.",
+      "example": "\"The lo-fi beat felt like a late-night tape.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "LP",
+      "category": "Styles & Eras",
+      "definition": "Long play. Originally a vinyl format, now shorthand for a full-length album.",
+      "example": "\"The LP runs 14 tracks.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Mainstream",
+      "category": "Styles & Eras",
+      "definition": "Music and artists with wide commercial reach through radio, TV, playlists and large labels.",
+      "example": "\"The song crossed over to the mainstream.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Master Recording",
+      "category": "Digital & Rights",
+      "definition": "The original finished recording of a song. Owners of the master usually control how it is licensed and earn from its use.",
+      "example": "\"She kept ownership of her masters.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "MC",
+      "category": "Performance",
+      "definition": "Short for master of ceremonies. In hip-hop, the person who raps or rocks the microphone.",
+      "example": "\"She's the best MC in the cypher tonight.\"",
+      "southAfricanContext": "Used across SA scenes in English and in local languages, from Cape Flats Afrikaans to isiZulu and Setswana."
+    },
+    {
+      "term": "Mechanical Rights",
+      "category": "Digital & Rights",
+      "definition": "The right to reproduce a composition, for example on CDs, downloads or streams.",
+      "example": "\"Mechanical royalties are paid when a song is reproduced.\"",
+      "southAfricanContext": "In SA, CAPASSO administers mechanical rights on behalf of its members."
+    },
+    {
+      "term": "Metadata",
+      "category": "Digital & Rights",
+      "definition": "The information attached to a recording: title, artists, writers, ISRC, release date and more. Wrong metadata means missing payments.",
+      "example": "\"Check the metadata before you submit.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Metaphor",
+      "category": "Lyrics & Flow",
+      "definition": "A figure of speech that says one thing is another to create meaning without using like or as.",
+      "example": "\"'The city is a hungry mouth' is a metaphor.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Mixtape",
+      "category": "Styles & Eras",
+      "definition": "A free or low-cost collection of tracks released outside the traditional album cycle, often to build a following.",
+      "example": "\"Her mixtape went round on WhatsApp before it hit streaming.\"",
+      "southAfricanContext": "Mixtapes have long been a route for independent SA artists to reach listeners before any label support."
+    },
+    {
+      "term": "New School",
+      "category": "Styles & Eras",
+      "definition": "Newer generations of artists and styles that depart from earlier templates.",
+      "example": "\"The new school is mixing trap with kwaito.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Old School",
+      "category": "Styles & Eras",
+      "definition": "The earliest era of hip-hop, from the 1970s to about the mid-1980s, with party-focused songs and simple production.",
+      "example": "\"Old school routines were built around block parties.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Open Mic",
+      "category": "Performance",
+      "definition": "A live event where anyone can sign up to perform.",
+      "example": "\"She tested her first verse at an open mic.\"",
+      "southAfricanContext": "Open mics are a key discovery space for SA artists outside the major venues."
+    },
+    {
+      "term": "Performance Rights",
+      "category": "Digital & Rights",
+      "definition": "The right to perform a composition in public, including on radio, TV and in venues. Performance royalties are collected by collecting societies.",
+      "example": "\"Radio play generates performance royalties.\"",
+      "southAfricanContext": "In SA, SAMRO administers performance rights for composers, authors and publishers."
+    },
+    {
+      "term": "Producer",
+      "category": "Production",
+      "definition": "The person who shapes how a record sounds, from the beat and arrangement to guiding the performance and final mix.",
+      "example": "\"The producer pushed the vocal to be rawer.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Publisher",
+      "category": "Industry & Business",
+      "definition": "A company that manages the rights to songs or written works. In music, it collects royalties for songwriters. In media, it publishes content.",
+      "example": "\"Her publisher registers the compositions.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Publishing Rights",
+      "category": "Digital & Rights",
+      "definition": "Rights tied to the composition, meaning the music and lyrics, as opposed to the recording.",
+      "example": "\"Publishing rights pay writers when songs are played or sold.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Punchline",
+      "category": "Lyrics & Flow",
+      "definition": "A line that lands a twist or joke, usually at the end of a bar.",
+      "example": "\"That punchline made the whole room react.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Rap",
+      "category": "Lyrics & Flow",
+      "definition": "Rhythmic, rhymed vocal delivery over a beat. One of hip-hop's four classic elements, alongside DJing, breaking and graffiti.",
+      "example": "\"Rap is the voice of the culture.\"",
+      "southAfricanContext": "SA rap is performed in many languages, often mixing them within a single verse."
+    },
+    {
+      "term": "Record Label",
+      "category": "Industry & Business",
+      "definition": "A company that signs, finances, markets and distributes recorded music.",
+      "example": "\"The label funded the video.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Royalty",
+      "category": "Digital & Rights",
+      "definition": "A payment to rights holders each time their work is used, sold or streamed.",
+      "example": "\"The royalty statement arrives every quarter.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Sample",
+      "category": "Production",
+      "definition": "A piece of an existing recording reused in a new track.",
+      "example": "\"The sample is a two-second horn stab.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Sampling",
+      "category": "Production",
+      "definition": "The practice of lifting and reworking parts of existing recordings. Sampled material generally needs clearance from the rights holders.",
+      "example": "\"Sampling shaped the sound of boom bap.\"",
+      "southAfricanContext": "SA producers sample jazz, mbaqanga, soul and local funk, which ties the music to the country's own archive."
+    },
+    {
+      "term": "Scratching",
+      "category": "DJing",
+      "definition": "Moving a record back and forth under the needle to create rhythmic sounds.",
+      "example": "\"His scratching ran through the whole hook.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Simile",
+      "category": "Lyrics & Flow",
+      "definition": "A comparison using like or as.",
+      "example": "\"Fast like a taxi in rush hour.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Single",
+      "category": "Styles & Eras",
+      "definition": "A lead track released on its own, often ahead of an album or EP.",
+      "example": "\"The single drops Friday.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Streaming",
+      "category": "Digital & Rights",
+      "definition": "Listening to music over the internet without owning a file. Revenue is paid per stream, at very small amounts.",
+      "example": "\"Streaming income depends on volume.\"",
+      "southAfricanContext": "SA streaming has grown alongside cheaper data and mobile access."
+    },
+    {
+      "term": "Sync",
+      "category": "Digital & Rights",
+      "definition": "Synchronisation licensing: placing a recording in a film, advert, game or show, usually for a fee.",
+      "example": "\"A sync deal paid for the whole EP.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Tag",
+      "category": "Elements & Culture",
+      "definition": "A graffiti writer's signature name, written quickly.",
+      "example": "\"His tag was on every wall on that street.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Trap",
+      "category": "Styles & Eras",
+      "definition": "A style with rolling hi-hats, heavy 808 bass and often dark or melodic moods. Originated in the American South.",
+      "example": "\"That trap beat has a huge 808.\"",
+      "southAfricanContext": "Trap is a major force in the 2010s and 2020s SA scene, performed in local languages."
+    },
+    {
+      "term": "Turntablism",
+      "category": "DJing",
+      "definition": "Treating the turntable as a musical instrument through scratching, beat juggling and manipulation.",
+      "example": "\"Turntablism turns two records into a new composition.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Underground",
+      "category": "Styles & Eras",
+      "definition": "Music and scenes that exist outside mainstream radio, TV and major-label systems, often valued for risk-taking and authenticity.",
+      "example": "\"The underground feeds the culture before the charts notice.\"",
+      "southAfricanContext": "Ordz focuses on the independent and underground scene."
+    },
+    {
+      "term": "Verse",
+      "category": "Lyrics & Flow",
+      "definition": "A section of a song where the rapper carries the story or argument, usually 16 bars, though length varies.",
+      "example": "\"Her second verse is the best part of the record.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Wildstyle",
+      "category": "Elements & Culture",
+      "definition": "A complex, interlocking graffiti lettering style that can be hard for outsiders to read.",
+      "example": "\"The wildstyle piece covered the whole wall.\"",
+      "southAfricanContext": ""
+    },
+    {
+      "term": "Wordplay",
+      "category": "Lyrics & Flow",
+      "definition": "Clever use of language: puns, double meanings, rhyme schemes, switching languages. Central to the Ordz name.",
+      "example": "\"Her wordplay works in two languages at once.\"",
+      "southAfricanContext": "Code-switching between languages is a rich source of wordplay in SA hip-hop."
+    }
+  ]
+}

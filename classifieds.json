@@ -1,0 +1,192 @@
+{
+  "groups": {
+    "Music": [
+      "Beats for Sale",
+      "Artists Looking for Producers",
+      "Producers Looking for Artists",
+      "Recording Sessions",
+      "Mixing",
+      "Mastering"
+    ],
+    "Creative": [
+      "Videographers",
+      "Photographers",
+      "Designers",
+      "Cover Art",
+      "Animation",
+      "Clothing"
+    ],
+    "Industry": [
+      "Managers Wanted",
+      "Artists Seeking Management",
+      "Booking Opportunities",
+      "Event Opportunities",
+      "Festival Opportunities",
+      "Label Opportunities"
+    ],
+    "Collaboration": [
+      "Artist Collaborations",
+      "Producer Collaborations",
+      "DJ Collaborations",
+      "Creative Collaborations"
+    ]
+  },
+  "items": [
+    {
+      "id": "cls-01",
+      "title": "Boom bap beat pack (sample)",
+      "group": "Music",
+      "category": "Beats for Sale",
+      "location": "Pretoria, Gauteng",
+      "description": "Placeholder listing for a beat pack. Replace with live content.",
+      "date": "2026-10-01",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-02",
+      "title": "MC seeking producer (sample)",
+      "group": "Music",
+      "category": "Artists Looking for Producers",
+      "location": "Durban, KwaZulu-Natal",
+      "description": "Placeholder listing for an artist seeking a producer.",
+      "date": "2026-09-28",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-03",
+      "title": "Mixing and mastering slots (sample)",
+      "group": "Music",
+      "category": "Mixing",
+      "location": "Johannesburg, Gauteng",
+      "description": "Placeholder listing for engineering services.",
+      "date": "2026-09-25",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-04",
+      "title": "Recording sessions by the hour (sample)",
+      "group": "Music",
+      "category": "Recording Sessions",
+      "location": "Cape Town, Western Cape",
+      "description": "Placeholder listing for studio time.",
+      "date": "2026-09-22",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-05",
+      "title": "Music video director available (sample)",
+      "group": "Creative",
+      "category": "Videographers",
+      "location": "Johannesburg, Gauteng",
+      "description": "Placeholder listing for a video creative.",
+      "date": "2026-09-30",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-06",
+      "title": "Cover art and poster design (sample)",
+      "group": "Creative",
+      "category": "Cover Art",
+      "location": "Cape Town, Western Cape",
+      "description": "Placeholder listing for design services.",
+      "date": "2026-09-18",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-07",
+      "title": "Merch and clothing collab (sample)",
+      "group": "Creative",
+      "category": "Clothing",
+      "location": "Soweto, Gauteng",
+      "description": "Placeholder listing for a clothing collaboration.",
+      "date": "2026-09-15",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-08",
+      "title": "Artists seeking management (sample)",
+      "group": "Industry",
+      "category": "Artists Seeking Management",
+      "location": "Gqeberha, Eastern Cape",
+      "description": "Placeholder listing for an artist seeking a manager.",
+      "date": "2026-09-29",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-09",
+      "title": "Open mic booking slots (sample)",
+      "group": "Industry",
+      "category": "Booking Opportunities",
+      "location": "Bloemfontein, Free State",
+      "description": "Placeholder listing for performer slots.",
+      "date": "2026-09-20",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-10",
+      "title": "Festival lineup call (sample)",
+      "group": "Industry",
+      "category": "Festival Opportunities",
+      "location": "Mahikeng, North West",
+      "description": "Placeholder listing for a festival call-out.",
+      "date": "2026-09-10",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-11",
+      "title": "Cross-province collab call (sample)",
+      "group": "Collaboration",
+      "category": "Artist Collaborations",
+      "location": "Nationwide",
+      "description": "Placeholder listing for a collab call.",
+      "date": "2026-10-02",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    },
+    {
+      "id": "cls-12",
+      "title": "DJ and producer collab (sample)",
+      "group": "Collaboration",
+      "category": "DJ Collaborations",
+      "location": "Polokwane, Limpopo",
+      "description": "Placeholder listing for a DJ/producer collab.",
+      "date": "2026-09-12",
+      "contact": "Contact details shown on live listings",
+      "whatsapp": "#",
+      "email": "hello@example.com",
+      "sample": true
+    }
+  ]
+}

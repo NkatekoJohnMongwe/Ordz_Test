@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "id": "sto-01",
+      "headline": "Story headline placeholder: an underground profile",
+      "category": "Artist Profiles",
+      "date": "2026-10-02",
+      "description": "Placeholder description for the latest Ordz story. Connect to your CMS or sheet.",
+      "url": "#",
+      "sample": true
+    },
+    {
+      "id": "sto-02",
+      "headline": "Story headline placeholder: a classic album revisited",
+      "category": "Classic Albums",
+      "date": "2026-09-27",
+      "description": "Placeholder description for a classic-album feature.",
+      "url": "#",
+      "sample": true
+    },
+    {
+      "id": "sto-03",
+      "headline": "Story headline placeholder: why the producer matters",
+      "category": "Producer Features",
+      "date": "2026-09-20",
+      "description": "Placeholder description for a producer feature.",
+      "url": "#",
+      "sample": true
+    }
+  ]
+}

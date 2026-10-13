@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "rel-01",
+      "artist": "Placeholder Artist",
+      "title": "Release Title One",
+      "type": "Album",
+      "date": "2026-10-01",
+      "cover": "",
+      "url": "#",
+      "colour": "orange",
+      "sample": true
+    },
+    {
+      "id": "rel-02",
+      "artist": "Placeholder Artist",
+      "title": "Release Title Two",
+      "type": "EP",
+      "date": "2026-09-19",
+      "cover": "",
+      "url": "#",
+      "colour": "green",
+      "sample": true
+    },
+    {
+      "id": "rel-03",
+      "artist": "Placeholder Artist",
+      "title": "Release Title Three",
+      "type": "Single",
+      "date": "2026-09-05",
+      "cover": "",
+      "url": "#",
+      "colour": "blue",
+      "sample": true
+    },
+    {
+      "id": "rel-04",
+      "artist": "Placeholder Artist",
+      "title": "Release Title Four",
+      "type": "Mixtape",
+      "date": "2026-08-22",
+      "cover": "",
+      "url": "#",
+      "colour": "red",
+      "sample": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "art-01",
+      "name": "Featured Artist Slot 1",
+      "location": "Johannesburg, Gauteng",
+      "bio": "Placeholder biography. Connect this slot to your artists table or sheet.",
+      "image": "",
+      "url": "#",
+      "colour": "red",
+      "sample": true
+    },
+    {
+      "id": "art-02",
+      "name": "Featured Artist Slot 2",
+      "location": "Cape Town, Western Cape",
+      "bio": "Placeholder biography. Connect this slot to your artists table or sheet.",
+      "image": "",
+      "url": "#",
+      "colour": "blue",
+      "sample": true
+    },
+    {
+      "id": "art-03",
+      "name": "Featured Artist Slot 3",
+      "location": "Durban, KwaZulu-Natal",
+      "bio": "Placeholder biography. Connect this slot to your artists table or sheet.",
+      "image": "",
+      "url": "#",
+      "colour": "green",
+      "sample": true
+    }
+  ]
+}
